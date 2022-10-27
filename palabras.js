@@ -1,0 +1,1 @@
+const words = ['pisos','helado', 'monda','negro','programacion','inem','decimo','sapo','perro','abrazo','soplar','tetranutra','Alumno','capar','salchipapas','dormir','Beber','Botella','Hamburguesa','Invierno'];
